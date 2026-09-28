@@ -1,25 +1,5 @@
-<div align="center">
 
-  <h1>Luis Estrela</h1>
-  <p><b>Cursando Engenharia de Software (UCSAL) & Técnico em Desenvolvimento de Sistemas (SENAI Cimatec)</b></p>
-
-  <br/>
-
-  <a href="SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/dantas.lg" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-</div>
-
-<br/>
-
----
-
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Desenvolvedor em formação, focado na construção de aplicações eficientes, boas práticas de código e arquitetura de sistemas.
 
