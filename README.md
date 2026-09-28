@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Luis%20Estrela&fontSize=42&fontColor=ff0033&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Software&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Luis%20Estrela&fontSize=42&fontColor=ff0033&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=60&descColor=ffffff" width="100%" alt="Header Banner" />
   
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0033&center=true&vcenter=true&width=500&height=40&lines=Ol%C3%A1%2C+boas-vindas+ao+meu+perfil!+%F0%9F%90%BA;Estudante+de+Tecnologia;Explorando+Java%2C+JavaScript+%26+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0033&center=true&vcenter=true&width=500&height=40&lines=Ol%C3%A1%2C+boas-vindas+ao+meu+perfil!+%F0%9F%90%BA;Engenharia+de+Software+na+UCSAL;T%C3%A9cnico+em+Sistemas+no+SENAI;Explorando+Java%2C+JavaScript+%26+React" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,13 +24,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Oi! Sou o **Luis Estrela**, estudante focado em desenvolvimento de software e construção de soluções digitais.
+Oi! Sou o **Luis Estrela**, apaixonado por tecnologia e focado em construir soluções digitais de alto impacto.
 
-Atualmente venho aprofundando meus estudos na base da programação e no ecossistema web, combinando linguagens fortemente tipadas como **Java** com **JavaScript** e **React**.
+Atualmente construindo uma base sólida de conhecimento com dupla formação: sou estudante de **Engenharia de Software** pela UCSAL (Universidade Católica do Salvador) e curso o **Técnico em Desenvolvimento de Sistemas** pelo SENAI Cimatec. 
 
-- 🎓 **Foco atual:** Fundamentos de Ciência da Computação, Arquitetura Web e Boas Práticas de Código.
-- 💡 **Interesses:** Desenvolvimento Web, Engenharia de Software e Design Minimalista.
-- 📬 **Contato:** Conecte-se comigo pelo [LinkedIn](SEU_LINKEDIN_AQUI) ou acompanhe meu rotina pelo [Instagram](https://instagram.com/dantas.lg).
+- 🎓 **Foco atual:** Arquitetura de Sistemas, Boas Práticas de Código e Desenvolvimento Web utilizando **Java, JavaScript e React**.
+- 💡 **Interesses:** Engenharia de Software, Desenvolvimento Full-stack e Design Minimalista.
+- 📬 **Contato:** Conecte-se comigo pelo [LinkedIn](SEU_LINKEDIN_AQUI) ou acompanhe minha rotina pelo [Instagram](https://instagram.com/dantas.lg).
 
 ---
 
