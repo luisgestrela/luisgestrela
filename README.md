@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Luis Estrela</h1>
-  <p><b>Cursando Engenharia de Software (UCSAL) & Técnico em Dev. de Sistemas (SENAI Cimatec)</b></p>
+  <p><b>Cursando Engenharia de Software (UCSAL) & Técnico em Desenvolvimento de Sistemas (SENAI Cimatec)</b></p>
 
   <br/>
 
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor em formação, focado na construção de softwares eficientes, lógica de programação e desenvolvimento web.
+Desenvolvedor em formação, focado na construção de aplicações eficientes, boas práticas de código e arquitetura de sistemas.
 
 Atualmente **cursando simultaneamente** duas formações na área de tecnologia:
 
@@ -37,7 +37,7 @@ Atualmente **cursando simultaneamente** duas formações na área de tecnologia:
 
 <div align="center">
 
-#### Linguagens & Web
+#### Linguagens & Frontend
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF0033" alt="JavaScript" />
@@ -47,7 +47,14 @@ Atualmente **cursando simultaneamente** duas formações na área de tecnologia:
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF0033" alt="CSS3" />
 </p>
 
-#### Ferramentas
+#### Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0033" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF0033" alt="PostgreSQL" />
+</p>
+
+#### Ferramentas & Versionamento
 
 <p>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF0033" alt="Git" />
@@ -66,7 +73,7 @@ Atualmente **cursando simultaneamente** duas formações na área de tecnologia:
   <tr>
     <td width="50%" valign="top">
       <h4>🔴 Projeto 01</h4>
-      <p>Aplicação web interativa desenvolvida com React e JavaScript, focada em componentes reutilizáveis e interface limpa.</p>
+      <p>Aplicação web interativa desenvolvida com React e JavaScript, focada em componentes reutilizáveis, consumo de dados e interface limpa.</p>
       <p><b>Techs:</b> React • JavaScript • CSS3</p>
       <p>
         <a href="LINK_DO_REPOSITORIO_1">📂 Código</a> | 
@@ -75,8 +82,8 @@ Atualmente **cursando simultaneamente** duas formações na área de tecnologia:
     </td>
     <td width="50%" valign="top">
       <h4>🔴 Projeto 02</h4>
-      <p>Sistema focado na aplicação dos conceitos de Programação Orientada a Objetos (POO) e controle de versão.</p>
-      <p><b>Techs:</b> Java • Git</p>
+      <p>Sistema backend/desktop aplicando conceitos de Programação Orientada a Objetos (POO), persistência de dados e controle de versão.</p>
+      <p><b>Techs:</b> Java • MySQL / PostgreSQL • Git</p>
       <p>
         <a href="LINK_DO_REPOSITORIO_2">📂 Código</a> | 
         <a href="LINK_DO_DEPLOY_2">🌐 Detalhes</a>
